@@ -1,15 +1,16 @@
 {
 	"name": "cherry-petals-theme",
 	"displayName": "cherry-petals-theme",
-	"description": "RkEclair's favorite theme",
-	"version": "1.0.0",
-	"publisher": "RkEclair",
+	"description": "MikuroXina's favorite theme",
+	"version": "1.1.0",
+	"publisher": "MikuroXina",
 	"engines": {
 		"vscode": "^1.29.0"
 	},
 	"categories": [
 		"Themes"
 	],
+	"repository": "https://github.com/MikuroXina/cherry-petals-theme",
 	"contributes": {
 		"themes": [
 			{
@@ -22,6 +23,6 @@
 	"__metadata": {
 		"id": "a5d0c77b-7f84-4a01-9121-34fb58eafaa6",
 		"publisherId": "197d4bbe-141c-44b7-a768-f140a0a7e6d4",
-		"publisherDisplayName": "RkEclair"
+		"publisherDisplayName": "MikuroXina"
 	}
 }
