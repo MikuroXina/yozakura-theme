@@ -14,15 +14,10 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "Cherry petals Theme",
+				"label": "Cherry Petals Theme",
 				"uiTheme": "vs-dark",
 				"path": "./themes/eclair-color-theme.json"
 			}
 		]
-	},
-	"__metadata": {
-		"id": "a5d0c77b-7f84-4a01-9121-34fb58eafaa6",
-		"publisherId": "197d4bbe-141c-44b7-a768-f140a0a7e6d4",
-		"publisherDisplayName": "MikuroXina"
 	}
 }
