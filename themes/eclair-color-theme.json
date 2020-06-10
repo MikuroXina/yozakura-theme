@@ -734,5 +734,17 @@
         "foreground": "#b267e6"
       }
     }
-  ]
+  ],
+  "semanticHighlighting": true,
+  "semanticTokenColors": {
+    "macro": "#b89c69",
+    "namespace": "#cccccc",
+    "class": "#6b8eff",
+    "interface": "#a280cf",
+    "function": "#84d4b3",
+    "member": "#84d4b3",
+    "variable": "#FAEAAB",
+    "variable.readonly": "#cccccc",
+    "variable.readonly.defaultLibrary": "#cccccc"
+  }
 }
