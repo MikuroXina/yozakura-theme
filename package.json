@@ -1,6 +1,6 @@
 {
-	"name": "cherry-petals-theme",
-	"displayName": "cherry-petals-theme",
+	"name": "yozakura-theme",
+	"displayName": "yozakura-theme",
 	"description": "MikuroXina's favorite theme",
 	"version": "1.3.0",
 	"publisher": "MikuroXina",
@@ -10,13 +10,13 @@
 	"categories": [
 		"Themes"
 	],
-	"repository": "https://github.com/MikuroXina/cherry-petals-theme",
+	"repository": "https://github.com/MikuroXina/yozakura-theme",
 	"contributes": {
 		"themes": [
 			{
 				"label": "Cherry Petals Theme",
 				"uiTheme": "vs-dark",
-				"path": "./themes/cherry-petals-theme.json"
+				"path": "./themes/yozakura-theme.json"
 			}
 		]
 	}
