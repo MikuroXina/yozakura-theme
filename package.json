@@ -1,8 +1,8 @@
 {
 	"name": "yozakura-theme",
 	"displayName": "yozakura-theme",
-	"description": "MikuroXina's favorite theme",
-	"version": "1.4.1",
+	"description": "MikuroXina's favorite dark theme",
+	"version": "1.4.2",
 	"publisher": "MikuroXina",
 	"engines": {
 		"vscode": "^1.29.0"
