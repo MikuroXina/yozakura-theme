@@ -4,6 +4,7 @@ Update screenshot.
 
 ## Released
 
+- Increase selection color contrast.
 - Fix json file name.
 - Rename cherry-petals-theme to yozakura-theme
 - Update screenshot.
