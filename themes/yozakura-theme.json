@@ -58,6 +58,8 @@
     "tab.activeBackground": "#191d19",
     "tab.border": "#464646",
     "tab.inactiveBackground": "#191d19",
+    "tab.activeModifiedBorder": "#e6ade6",
+    "tab.inactiveModifiedBorder": "#bb9abb",
     "terminal.ansiBlack": "#2D3139",
     "terminal.ansiBlue": "#2e8ccf",
     "terminal.ansiGreen": "#98c379ff",
