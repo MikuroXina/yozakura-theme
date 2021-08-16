@@ -4,6 +4,7 @@ Update screenshot.
 
 ## Released
 
+- Support modified border color in tabs.
 - Increase selection color contrast.
 - Fix json file name.
 - Rename cherry-petals-theme to yozakura-theme
