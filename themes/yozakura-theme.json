@@ -2,7 +2,13 @@
   "name": "Yozakura theme",
   "type": "dark",
   "colors": {
-    "focusBorder": "#faabe0",
+    "foreground": "#d0c9d0",
+    "focusBorder": "#d680bb",
+    "textLink.foreground": "#d680bb",
+    "textLink.activeForeground": "#faabe0",
+    "textBlockQuote.border": "#64004b",
+    "settings.modifiedItemIndicator": "#64004b",
+    "widget.shadow": "#393a39",
     "activityBar.background": "#191d19",
     "activityBar.foreground": "#c3c5ca",
     "activityBarBadge.background": "#64004b",
@@ -10,6 +16,8 @@
     "badge.background": "#64004b",
     "badge.foreground": "#c1c3c5",
     "button.background": "#544051",
+    "button.hoverBackground": "#7c5c77",
+    "checkbox.background": "#64004b",
     "debugToolBar.background": "#191d19",
     "dropdown.background": "#191d19",
     "diffEditor.insertedTextBackground": "#00809B33",
@@ -70,7 +78,11 @@
     "titleBar.inactiveBackground": "#191d19",
     "titleBar.inactiveForeground": "#6B717D",
     "minimap.selectionHighlight": "#354934",
-    "minimap.findMatchHighlight": "#443b7a"
+    "minimap.findMatchHighlight": "#443b7a",
+    "welcomePage.buttonBackground": "#544051",
+    "welcomePage.buttonHoverBackground": "#7c5c77",
+    "welcomePage.progress.foreground": "#faabe0",
+    "notificationLink.foreground": "#544051"
   },
   "tokenColors": [
     {
@@ -104,7 +116,7 @@
       "name": "Invalid - Illegal",
       "scope": "invalid.illegal",
       "settings": {
-        "foreground": "#660000"
+        "foreground": "#dc8a7b"
       }
     },
     {
