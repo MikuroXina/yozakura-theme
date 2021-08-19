@@ -4,6 +4,7 @@ Update screenshot.
 
 ## Released
 
+- Support other text colors and make illegal color comfortable.
 - Support modified border color in tabs.
 - Increase selection color contrast.
 - Fix json file name.
