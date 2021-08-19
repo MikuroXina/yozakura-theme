@@ -52,6 +52,7 @@
     "list.highlightForeground": "#C5C5C5",
     "list.inactiveSelectionBackground": "#2c313a",
     "list.inactiveSelectionForeground": "#d7dae0",
+    "list.dropBackground": "#3a2037",
     "peekViewEditor.matchHighlightBackground": "#29244b",
     "scrollbarSlider.background": "#4E566680",
     "scrollbarSlider.activeBackground": "#747D9180",
