@@ -1,9 +1,10 @@
 # Change Log
 
-Bracket pair colorization supported.
+Update JSON key colors and darken focusBorder.
 
 ## Released
 
+- Update JSON key colors and darken focusBorder.
 - Bracket pair colorization supported.
 - Support other text colors and make illegal color comfortable.
 - Support modified border color in tabs.
