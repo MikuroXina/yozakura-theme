@@ -1,9 +1,10 @@
 # Change Log
 
-Update JSON key colors and darken focusBorder.
+Make highlight colors not opaque
 
 ## Released
 
+- Make highlight colors not opaque
 - Update JSON key colors and darken focusBorder.
 - Bracket pair colorization supported.
 - Support other text colors and make illegal color comfortable.
