@@ -19,5 +19,6 @@
 				"path": "./themes/yozakura-theme.json"
 			}
 		]
-	}
+	},
+	"files": ["LICENSE", "themes/yozakura-theme.json"]
 }
